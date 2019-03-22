@@ -22,7 +22,7 @@ public class SwaggerConfig {
 	private String name = "CITY";
 	
 	// 创建人
-	private String url = "";
+	private String url = "https://github.com/cityliang/TimingTask.git";
 	
 	// 创建人
 	private String email = "city_wangyi@163.com";
